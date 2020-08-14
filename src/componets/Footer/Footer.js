@@ -36,9 +36,12 @@ function Footer() {
         <Typography variant="body1" display="inline" className={classes.typo}>
           @ {new Date().getFullYear()} X&Z
         </Typography>
-        <Link href="/contact" color="inherit">
+        <Link
+          href="https://drive.google.com/file/d/1TGvYqdqQnOU-GtSV3I25ft6EyYIx_w4U/edit"
+          color="inherit"
+        >
           <Typography display="inline" className={classes.typo}>
-            Contact Us
+            Guide
           </Typography>
         </Link>
       </Container>

@@ -12,6 +12,11 @@ const useStyles = makeStyles((theme) => ({
   dashboard: {
     padding: "40px",
   },
+  title: {
+    color: "##473F3F",
+    fontSize: 32,
+    fontWeight: 500,
+  },
   grid: {
     width: "100%",
     margin: "20px 0",
